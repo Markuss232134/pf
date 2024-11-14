@@ -13,3 +13,6 @@ function back(){
 function darb1(){
     location.href = "darbi1.html";
 }
+function cont(){
+    location.href = "cont.html";
+}
