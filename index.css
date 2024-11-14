@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    justify-content: center;
+    border: solid black ;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+.pogas{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    gap: 20px;
+    color: black; 
+}
+button{
+    font-style: italic;
+    font-size: 25px;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+}
+body{
+    background-color: wheat;
+}
+.text{
+    font-size: 20px;
+}
+.pic{
+    height: 250px;
+}
